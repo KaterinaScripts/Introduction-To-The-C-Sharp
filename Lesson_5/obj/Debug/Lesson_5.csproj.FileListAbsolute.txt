@@ -1,0 +1,8 @@
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\bin\Debug\Lesson_5.exe.config
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\bin\Debug\Lesson_5.exe
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\bin\Debug\Lesson_5.pdb
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\obj\Debug\Lesson_5.csproj.AssemblyReference.cache
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\obj\Debug\Lesson_5.csproj.SuggestedBindingRedirects.cache
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\obj\Debug\Lesson_5.csproj.CoreCompileInputs.cache
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\obj\Debug\Lesson_5.exe
+E:\GB\Знакомство с С#\Lesson_1\Lesson_5\Lesson_5\obj\Debug\Lesson_5.pdb
